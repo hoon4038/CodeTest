@@ -1,4 +1,0 @@
-dog: 개
-cat: 고양이
-school: 학교
-law: 법
